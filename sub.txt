@@ -8,9 +8,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -22,6 +28,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -86,11 +112,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -107,9 +133,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -202,7 +229,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -246,9 +286,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -260,6 +306,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -324,11 +390,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUzQ2dVNxTjEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoidVlUa1pxek5kUDlUc3RHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahador.BahADORpMA.woRKeRs.dEv",
+                        "serverName": "BaHaDOR.BaHAdORPma.WOrkeRs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -345,9 +411,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -440,7 +507,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -484,9 +564,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -498,6 +584,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -540,7 +646,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 443,
                             "users": [
                                 {
@@ -555,11 +661,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiaFN3dVlISHJEN2hVSnJMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiM0RxQVRGWXNFSzAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHaDor.bAhAdORpmA.woRKERS.DeV",
+                        "serverName": "BahADOr.bAhadoRpmA.WORKERs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -576,9 +682,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -671,7 +778,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -715,9 +835,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -729,6 +855,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -771,7 +917,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 443,
                             "users": [
                                 {
@@ -786,11 +932,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiZnBaUWQ3Mk1lcjNyS3ljIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZnpNdnlOTEciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHAdor.bAHadoRpMA.wORkers.Dev",
+                        "serverName": "BAHador.BaHADORPMa.WoRkeRs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -807,9 +953,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -902,7 +1049,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -946,9 +1106,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -960,6 +1126,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -1024,11 +1210,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTjRjTllOSm1Lamw2dXBTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiODBxQWJqVmw5SU9uRDlJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHadoR.BaHaDorPMA.wOrkErS.dEv",
+                        "serverName": "bAHadoR.bAHaDorPma.WORKeRs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1045,9 +1231,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -1140,7 +1327,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1184,9 +1384,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -1198,6 +1404,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -1262,11 +1488,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiT3FWSFFOdkxhYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiT3hWRjN1SUNhdWhXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDOr.BaHAdORPmA.WoRkErs.DEv",
+                        "serverName": "bAHadOR.bAhAdoRpmA.WorKerS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1283,9 +1509,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -1378,7 +1605,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1422,9 +1662,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -1436,6 +1682,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -1478,7 +1744,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 8443,
                             "users": [
                                 {
@@ -1493,11 +1759,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWDR4ODZvVkk0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiWUJYZFBla2R1T1ZlbkQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahADOr.bAHAdorpMa.WorKerS.DEv",
+                        "serverName": "baHADOr.BAhadoRPMa.woRKErS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1514,9 +1780,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -1609,7 +1876,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1653,9 +1933,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -1667,6 +1953,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -1709,7 +2015,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 8443,
                             "users": [
                                 {
@@ -1724,11 +2030,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic3B2S0hybUhXcm1TNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUjA4a21xa0giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDoR.bahADorpmA.WoRKeRS.dEv",
+                        "serverName": "bahAdoR.bahaDoRpMa.WOrKerS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1745,9 +2051,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -1840,7 +2147,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1884,9 +2204,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -1898,6 +2224,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -1962,11 +2308,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMEc1Y2RHVEZ0ZUFIOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiU0ZDNkRGYlQwenY0dW4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOR.BahADorPMA.worKeRS.dEV",
+                        "serverName": "bahAdor.BAHadoRpMA.wOrKERS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1983,9 +2329,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -2078,7 +2425,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2122,9 +2482,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -2136,6 +2502,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -2200,11 +2586,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUWV1OGZ4RXNKc2UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoib2ExdmxrdllnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHAdoR.BahadorpMA.woRKeRs.dEV",
+                        "serverName": "bAhADOr.bAhadOrPma.wORkErS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2221,9 +2607,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -2316,7 +2703,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2360,9 +2760,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -2374,6 +2780,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -2416,7 +2842,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 2053,
                             "users": [
                                 {
@@ -2431,11 +2857,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibmtzS1prR0hBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoieUgzSmVGd0FHcU1XNmlCUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdor.BahadorpMA.woRkerS.DEV",
+                        "serverName": "BAHadoR.bAHaDOrpmA.WorkeRS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2452,9 +2878,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -2547,7 +2974,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2591,9 +3031,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -2605,6 +3051,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -2647,7 +3113,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 2053,
                             "users": [
                                 {
@@ -2662,11 +3128,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoicTFYWG1qUUhjYW4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiSlBpcHFLUEd1SCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHaDor.BaHAdOrpma.WoRKeRs.dev",
+                        "serverName": "BAhAdOR.BAhADOrpma.WORkeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2683,9 +3149,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -2778,7 +3245,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2822,9 +3302,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -2836,6 +3322,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -2900,11 +3406,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibUprd3ZIVjdnOUI1SyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQWVwRWlSZ0JiYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdoR.bahadorpma.wOrkeRs.dEV",
+                        "serverName": "bAhADOR.BaHADOrpma.WOrkeRS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2921,9 +3427,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -3016,7 +3523,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3060,9 +3580,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -3074,6 +3600,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -3138,11 +3684,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoicUVEY2hvcHk2QjUxSTJwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZWNtV1lSYkNvTFhQRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahadOR.BaHaDOrPma.woRKers.dEv",
+                        "serverName": "BAhAdOr.baHaDOrpMa.WORkErs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3159,9 +3705,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -3254,7 +3801,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3298,9 +3858,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -3312,6 +3878,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -3354,7 +3940,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 2083,
                             "users": [
                                 {
@@ -3369,11 +3955,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSmVHRkV1aFRiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoicmtKbnBGeE8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhaDOR.BAhADoRpMA.WorkerS.Dev",
+                        "serverName": "BAHADOR.BAhAdorPma.WORkeRS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3390,9 +3976,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -3485,7 +4072,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3529,9 +4129,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -3543,6 +4149,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -3585,7 +4211,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 2083,
                             "users": [
                                 {
@@ -3600,11 +4226,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUjZmMmNWb1NIMnJGZ0o0RyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWTdPbEJFSkZLQnZwUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHaDOR.BaHADORPMA.wOrkErs.dev",
+                        "serverName": "BaHaDoR.BAhadORPMa.WORkErs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3621,9 +4247,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -3716,7 +4343,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3760,9 +4400,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -3774,6 +4420,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -3838,11 +4504,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiM1lqTFVnTmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiWVdtc3VDQnNRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahADor.BAHADoRpMa.WorkERS.DEv",
+                        "serverName": "bAhADoR.bahaDOrpMA.WoRkers.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3859,9 +4525,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -3954,7 +4621,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3998,9 +4678,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -4012,6 +4698,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -4076,11 +4782,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTXNQcVZ4TnoxRDFXMkEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoib1RIdkpsNm1sTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhaDor.BAhAdoRPmA.woRkERs.dEV",
+                        "serverName": "bAHADor.BAHadorPma.wORkerS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4097,9 +4803,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -4192,7 +4899,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -4236,9 +4956,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -4250,237 +4976,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                }
-            ],
-            "queryStrategy": "UseIP",
-            "tag": "dns"
-        },
-        "inbounds": [
-            {
-                "listen": "0.0.0.0",
-                "port": 10808,
-                "protocol": "socks",
-                "settings": {
-                    "auth": "noauth",
-                    "udp": true
-                },
-                "sniffing": {
-                    "destOverride": [
-                        "http",
-                        "tls"
-                    ],
-                    "enabled": true,
-                    "routeOnly": true
-                },
-                "tag": "mixed-in"
-            },
-            {
-                "listen": "0.0.0.0",
-                "port": 10853,
-                "protocol": "dokodemo-door",
-                "settings": {
-                    "address": "1.1.1.1",
-                    "network": "tcp,udp",
-                    "port": 53
-                },
-                "tag": "dns-in"
-            }
-        ],
-        "outbounds": [
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "104.21.25.224",
-                            "port": 2087,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoicGo0dDJlMzJ2eSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BAHAdOR.baHaDORpMa.WorkErS.deV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy"
-            },
-            {
-                "protocol": "freedom",
-                "settings": {
-                    "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
-                    }
-                },
-                "streamSettings": {
-                    "sockopt": {
-                        "domainStrategy": "UseIP",
-                        "happyEyeballs": {
-                            "tryDelayMs": 250,
-                            "prioritizeIPv6": false,
-                            "interleave": 2,
-                            "maxConcurrentTry": 4
-                        }
-                    }
-                },
-                "tag": "fragment"
-            },
-            {
-                "protocol": "dns",
-                "settings": {
-                    "nonIPQuery": "reject"
-                },
-                "tag": "dns-out"
-            },
-            {
-                "protocol": "freedom",
-                "settings": {
-                    "domainStrategy": "UseIP"
-                },
-                "tag": "direct"
-            },
-            {
-                "protocol": "blackhole",
-                "settings": {
-                    "response": {
-                        "type": "http"
-                    }
-                },
-                "tag": "block"
-            }
-        ],
-        "routing": {
-            "domainStrategy": "IPIfNonMatch",
-            "rules": [
-                {
-                    "inboundTag": [
-                        "mixed-in"
-                    ],
-                    "port": 53,
-                    "outboundTag": "dns-out",
-                    "type": "field"
                 },
                 {
-                    "inboundTag": [
-                        "dns-in"
-                    ],
-                    "outboundTag": "dns-out",
-                    "type": "field"
-                },
-                {
-                    "inboundTag": [
-                        "remote-dns"
-                    ],
-                    "outboundTag": "proxy",
-                    "type": "field"
-                },
-                {
-                    "inboundTag": [
-                        "dns"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:private"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:private"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ir"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "network": "tcp",
-                    "outboundTag": "proxy",
-                    "type": "field"
-                }
-            ]
-        },
-        "policy": {
-            "levels": {
-                "0": {
-                    "connIdle": 300,
-                    "handshake": 4,
-                    "uplinkOnly": 1,
-                    "downlinkOnly": 1
-                }
-            },
-            "system": {
-                "statsOutboundUplink": true,
-                "statsOutboundDownlink": true
-            }
-        },
-        "stats": {}
-    },
-    {
-        "remarks": "💦 20 - VLESS F - IPv4 : 2087",
-        "version": {
-            "min": "25.10.15"
-        },
-        "log": {
-            "loglevel": "warning"
-        },
-        "dns": {
-            "servers": [
-                {
-                    "address": "https://8.8.8.8/dns-query",
-                    "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
+                    "address": "178.22.122.100",
                     "domains": [
-                        "geosite:category-ir"
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -4538,11 +5053,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQ3NIR2RtbVdiR3JhIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiWDJlT3FtUnVobjd1RVgwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHaDOR.BahAdorpMA.wOrkErs.dEv",
+                        "serverName": "BaHaDOr.BahadOrpMa.WoRkERS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4559,9 +5074,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -4654,7 +5170,291 @@
                 },
                 {
                     "domain": [
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:ir"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "tcp",
+                    "outboundTag": "proxy",
+                    "type": "field"
+                }
+            ]
+        },
+        "policy": {
+            "levels": {
+                "0": {
+                    "connIdle": 300,
+                    "handshake": 4,
+                    "uplinkOnly": 1,
+                    "downlinkOnly": 1
+                }
+            },
+            "system": {
+                "statsOutboundUplink": true,
+                "statsOutboundDownlink": true
+            }
+        },
+        "stats": {}
+    },
+    {
+        "remarks": "💦 20 - VLESS F - IPv4 : 2087",
+        "version": {
+            "min": "25.10.15"
+        },
+        "log": {
+            "loglevel": "warning"
+        },
+        "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
+            "servers": [
+                {
+                    "address": "https://adguard-dns.com",
+                    "tag": "remote-dns"
+                },
+                {
+                    "address": "1.1.1.1",
+                    "domains": [
                         "geosite:category-ir"
+                    ],
+                    "expectIPs": [
+                        "geoip:ir"
+                    ],
+                    "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
+                }
+            ],
+            "queryStrategy": "UseIP",
+            "tag": "dns"
+        },
+        "inbounds": [
+            {
+                "listen": "0.0.0.0",
+                "port": 10808,
+                "protocol": "socks",
+                "settings": {
+                    "auth": "noauth",
+                    "udp": true
+                },
+                "sniffing": {
+                    "destOverride": [
+                        "http",
+                        "tls"
+                    ],
+                    "enabled": true,
+                    "routeOnly": true
+                },
+                "tag": "mixed-in"
+            },
+            {
+                "listen": "0.0.0.0",
+                "port": 10853,
+                "protocol": "dokodemo-door",
+                "settings": {
+                    "address": "1.1.1.1",
+                    "network": "tcp,udp",
+                    "port": 53
+                },
+                "tag": "dns-in"
+            }
+        ],
+        "outbounds": [
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.21.25.224",
+                            "port": 2087,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoidGgxYlBwUGZTbkdmaFAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BahAdoR.BAHAdorpMA.WORKers.dEv",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy"
+            },
+            {
+                "protocol": "freedom",
+                "settings": {
+                    "fragment": {
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
+                    }
+                },
+                "streamSettings": {
+                    "sockopt": {
+                        "domainStrategy": "UseIP",
+                        "happyEyeballs": {
+                            "tryDelayMs": 250,
+                            "prioritizeIPv6": false,
+                            "interleave": 2,
+                            "maxConcurrentTry": 4
+                        }
+                    }
+                },
+                "tag": "fragment"
+            },
+            {
+                "protocol": "dns",
+                "settings": {
+                    "nonIPQuery": "reject"
+                },
+                "tag": "dns-out"
+            },
+            {
+                "protocol": "freedom",
+                "settings": {
+                    "domainStrategy": "UseIP"
+                },
+                "tag": "direct"
+            },
+            {
+                "protocol": "blackhole",
+                "settings": {
+                    "response": {
+                        "type": "http"
+                    }
+                },
+                "tag": "block"
+            }
+        ],
+        "routing": {
+            "domainStrategy": "IPIfNonMatch",
+            "rules": [
+                {
+                    "inboundTag": [
+                        "mixed-in"
+                    ],
+                    "port": 53,
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns-in"
+                    ],
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "remote-dns"
+                    ],
+                    "outboundTag": "proxy",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "udp",
+                    "outboundTag": "block",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -4698,9 +5498,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -4712,6 +5518,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -4776,11 +5602,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMmR2cWx6anhncyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWnF2SHZlVHciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHadOr.bahAdoRpMa.workers.dev",
+                        "serverName": "bahAdOR.bAHADorpMA.wOrkERS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4797,9 +5623,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -4892,7 +5719,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -4936,9 +5776,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -4950,6 +5796,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -5014,11 +5880,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiYzB4Y1g3bXlUbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiOGtOMlZRNWIwSHMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDOr.baHADorpMA.wORKErS.deV",
+                        "serverName": "baHADOr.baHaDoRpmA.worKeRS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5035,9 +5901,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -5130,7 +5997,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -5174,9 +6054,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -5188,237 +6074,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
-                }
-            ],
-            "queryStrategy": "UseIP",
-            "tag": "dns"
-        },
-        "inbounds": [
-            {
-                "listen": "0.0.0.0",
-                "port": 10808,
-                "protocol": "socks",
-                "settings": {
-                    "auth": "noauth",
-                    "udp": true
-                },
-                "sniffing": {
-                    "destOverride": [
-                        "http",
-                        "tls"
-                    ],
-                    "enabled": true,
-                    "routeOnly": true
-                },
-                "tag": "mixed-in"
-            },
-            {
-                "listen": "0.0.0.0",
-                "port": 10853,
-                "protocol": "dokodemo-door",
-                "settings": {
-                    "address": "1.1.1.1",
-                    "network": "tcp,udp",
-                    "port": 53
-                },
-                "tag": "dns-in"
-            }
-        ],
-        "outbounds": [
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "104.21.25.224",
-                            "port": 2096,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQWdlVXlxdUw5ZHBtMGtzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BAhaDoR.bahAdORPmA.woRkeRs.deV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy"
-            },
-            {
-                "protocol": "freedom",
-                "settings": {
-                    "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
-                    }
-                },
-                "streamSettings": {
-                    "sockopt": {
-                        "domainStrategy": "UseIP",
-                        "happyEyeballs": {
-                            "tryDelayMs": 250,
-                            "prioritizeIPv6": false,
-                            "interleave": 2,
-                            "maxConcurrentTry": 4
-                        }
-                    }
-                },
-                "tag": "fragment"
-            },
-            {
-                "protocol": "dns",
-                "settings": {
-                    "nonIPQuery": "reject"
-                },
-                "tag": "dns-out"
-            },
-            {
-                "protocol": "freedom",
-                "settings": {
-                    "domainStrategy": "UseIP"
-                },
-                "tag": "direct"
-            },
-            {
-                "protocol": "blackhole",
-                "settings": {
-                    "response": {
-                        "type": "http"
-                    }
-                },
-                "tag": "block"
-            }
-        ],
-        "routing": {
-            "domainStrategy": "IPIfNonMatch",
-            "rules": [
-                {
-                    "inboundTag": [
-                        "mixed-in"
-                    ],
-                    "port": 53,
-                    "outboundTag": "dns-out",
-                    "type": "field"
                 },
                 {
-                    "inboundTag": [
-                        "dns-in"
-                    ],
-                    "outboundTag": "dns-out",
-                    "type": "field"
-                },
-                {
-                    "inboundTag": [
-                        "remote-dns"
-                    ],
-                    "outboundTag": "proxy",
-                    "type": "field"
-                },
-                {
-                    "inboundTag": [
-                        "dns"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:private"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:private"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "network": "udp",
-                    "outboundTag": "block",
-                    "type": "field"
-                },
-                {
-                    "domain": [
-                        "geosite:category-ir"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "network": "tcp",
-                    "outboundTag": "proxy",
-                    "type": "field"
-                }
-            ]
-        },
-        "policy": {
-            "levels": {
-                "0": {
-                    "connIdle": 300,
-                    "handshake": 4,
-                    "uplinkOnly": 1,
-                    "downlinkOnly": 1
-                }
-            },
-            "system": {
-                "statsOutboundUplink": true,
-                "statsOutboundDownlink": true
-            }
-        },
-        "stats": {}
-    },
-    {
-        "remarks": "💦 24 - VLESS F - IPv4 : 2096",
-        "version": {
-            "min": "25.10.15"
-        },
-        "log": {
-            "loglevel": "warning"
-        },
-        "dns": {
-            "servers": [
-                {
-                    "address": "https://8.8.8.8/dns-query",
-                    "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
+                    "address": "178.22.122.100",
                     "domains": [
-                        "geosite:category-ir"
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -5476,11 +6151,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoicDV6M1A4VnZhZWMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiTE1hdDZ6RG80cTI3diIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahADOR.BahADoRpmA.WorKeRS.dEV",
+                        "serverName": "BahADor.BahaDORPMA.woRkERS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5497,9 +6172,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -5592,7 +6268,291 @@
                 },
                 {
                     "domain": [
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:ir"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "tcp",
+                    "outboundTag": "proxy",
+                    "type": "field"
+                }
+            ]
+        },
+        "policy": {
+            "levels": {
+                "0": {
+                    "connIdle": 300,
+                    "handshake": 4,
+                    "uplinkOnly": 1,
+                    "downlinkOnly": 1
+                }
+            },
+            "system": {
+                "statsOutboundUplink": true,
+                "statsOutboundDownlink": true
+            }
+        },
+        "stats": {}
+    },
+    {
+        "remarks": "💦 24 - VLESS F - IPv4 : 2096",
+        "version": {
+            "min": "25.10.15"
+        },
+        "log": {
+            "loglevel": "warning"
+        },
+        "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
+            "servers": [
+                {
+                    "address": "https://adguard-dns.com",
+                    "tag": "remote-dns"
+                },
+                {
+                    "address": "1.1.1.1",
+                    "domains": [
                         "geosite:category-ir"
+                    ],
+                    "expectIPs": [
+                        "geoip:ir"
+                    ],
+                    "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
+                }
+            ],
+            "queryStrategy": "UseIP",
+            "tag": "dns"
+        },
+        "inbounds": [
+            {
+                "listen": "0.0.0.0",
+                "port": 10808,
+                "protocol": "socks",
+                "settings": {
+                    "auth": "noauth",
+                    "udp": true
+                },
+                "sniffing": {
+                    "destOverride": [
+                        "http",
+                        "tls"
+                    ],
+                    "enabled": true,
+                    "routeOnly": true
+                },
+                "tag": "mixed-in"
+            },
+            {
+                "listen": "0.0.0.0",
+                "port": 10853,
+                "protocol": "dokodemo-door",
+                "settings": {
+                    "address": "1.1.1.1",
+                    "network": "tcp,udp",
+                    "port": 53
+                },
+                "tag": "dns-in"
+            }
+        ],
+        "outbounds": [
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.21.25.224",
+                            "port": 2096,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoibFV2akFZOXFiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "bAhAdOr.bahadORpMA.woRkerS.deV",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy"
+            },
+            {
+                "protocol": "freedom",
+                "settings": {
+                    "fragment": {
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
+                    }
+                },
+                "streamSettings": {
+                    "sockopt": {
+                        "domainStrategy": "UseIP",
+                        "happyEyeballs": {
+                            "tryDelayMs": 250,
+                            "prioritizeIPv6": false,
+                            "interleave": 2,
+                            "maxConcurrentTry": 4
+                        }
+                    }
+                },
+                "tag": "fragment"
+            },
+            {
+                "protocol": "dns",
+                "settings": {
+                    "nonIPQuery": "reject"
+                },
+                "tag": "dns-out"
+            },
+            {
+                "protocol": "freedom",
+                "settings": {
+                    "domainStrategy": "UseIP"
+                },
+                "tag": "direct"
+            },
+            {
+                "protocol": "blackhole",
+                "settings": {
+                    "response": {
+                        "type": "http"
+                    }
+                },
+                "tag": "block"
+            }
+        ],
+        "routing": {
+            "domainStrategy": "IPIfNonMatch",
+            "rules": [
+                {
+                    "inboundTag": [
+                        "mixed-in"
+                    ],
+                    "port": 53,
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns-in"
+                    ],
+                    "outboundTag": "dns-out",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "remote-dns"
+                    ],
+                    "outboundTag": "proxy",
+                    "type": "field"
+                },
+                {
+                    "inboundTag": [
+                        "dns"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "ip": [
+                        "geoip:private"
+                    ],
+                    "outboundTag": "direct",
+                    "type": "field"
+                },
+                {
+                    "network": "udp",
+                    "outboundTag": "block",
+                    "type": "field"
+                },
+                {
+                    "domain": [
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -5636,9 +6596,15 @@
             "loglevel": "warning"
         },
         "dns": {
+            "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ]
+            },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -5650,6 +6616,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 },
                 {
                     "address": "1.1.1.1",
@@ -5715,11 +6701,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5752,11 +6738,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUzQ2dVNxTjEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoidVlUa1pxek5kUDlUc3RHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahador.BahADORpMA.woRKeRs.dEv",
+                        "serverName": "BaHaDOR.BaHAdORPma.WOrkeRs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5768,43 +6754,6 @@
                     }
                 },
                 "tag": "proxy-2"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "104.21.25.224",
-                            "port": 443,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiaFN3dVlISHJEN2hVSnJMIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "bAHaDor.bAhAdORpmA.woRKERS.DeV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-3"
             },
             {
                 "protocol": "vless",
@@ -5826,11 +6775,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiZnBaUWQ3Mk1lcjNyS3ljIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiM0RxQVRGWXNFSzAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHAdor.bAHadoRpMA.wORkers.Dev",
+                        "serverName": "BahADOr.bAhadoRpmA.WORKERs.DEV",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-3"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.21.25.224",
+                            "port": 443,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoiZnpNdnlOTEciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BAHador.BaHADORPMa.WoRkeRs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5863,11 +6849,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTjRjTllOSm1Lamw2dXBTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiODBxQWJqVmw5SU9uRDlJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHadoR.BaHaDorPMA.wOrkErS.dEv",
+                        "serverName": "bAHadoR.bAHaDorPma.WORKeRs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5900,11 +6886,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiT3FWSFFOdkxhYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiT3hWRjN1SUNhdWhXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDOr.BaHAdORPmA.WoRkErs.DEv",
+                        "serverName": "bAHadOR.bAhAdoRpmA.WorKerS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5916,43 +6902,6 @@
                     }
                 },
                 "tag": "proxy-6"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "104.21.25.224",
-                            "port": 8443,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWDR4ODZvVkk0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "bahADOr.bAHAdorpMa.WorKerS.DEv",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-7"
             },
             {
                 "protocol": "vless",
@@ -5974,11 +6923,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic3B2S0hybUhXcm1TNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWUJYZFBla2R1T1ZlbkQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDoR.bahADorpmA.WoRKeRS.dEv",
+                        "serverName": "baHADOr.BAhadoRPMa.woRKErS.dEv",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-7"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.21.25.224",
+                            "port": 8443,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoiUjA4a21xa0giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "bahAdoR.bahaDoRpMa.WOrKerS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6011,11 +6997,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMEc1Y2RHVEZ0ZUFIOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiU0ZDNkRGYlQwenY0dW4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOR.BahADorPMA.worKeRS.dEV",
+                        "serverName": "bahAdor.BAHadoRpMA.wOrKERS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6048,11 +7034,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUWV1OGZ4RXNKc2UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoib2ExdmxrdllnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHAdoR.BahadorpMA.woRKeRs.dEV",
+                        "serverName": "bAhADOr.bAhadOrPma.wORkErS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6064,43 +7050,6 @@
                     }
                 },
                 "tag": "proxy-10"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "104.21.25.224",
-                            "port": 2053,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibmtzS1prR0hBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BAhAdor.BahadorpMA.woRkerS.DEV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-11"
             },
             {
                 "protocol": "vless",
@@ -6122,11 +7071,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoicTFYWG1qUUhjYW4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoieUgzSmVGd0FHcU1XNmlCUiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHaDor.BaHAdOrpma.WoRKeRs.dev",
+                        "serverName": "BAHadoR.bAHaDOrpmA.WorkeRS.dEV",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-11"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.21.25.224",
+                            "port": 2053,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoiSlBpcHFLUEd1SCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BAhAdOR.BAhADOrpma.WORkeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6159,11 +7145,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibUprd3ZIVjdnOUI1SyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQWVwRWlSZ0JiYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdoR.bahadorpma.wOrkeRs.dEV",
+                        "serverName": "bAhADOR.BaHADOrpma.WOrkeRS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6196,11 +7182,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoicUVEY2hvcHk2QjUxSTJwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZWNtV1lSYkNvTFhQRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahadOR.BaHaDOrPma.woRKers.dEv",
+                        "serverName": "BAhAdOr.baHaDOrpMa.WORkErs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6212,43 +7198,6 @@
                     }
                 },
                 "tag": "proxy-14"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "104.21.25.224",
-                            "port": 2083,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSmVHRkV1aFRiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "bAhaDOR.BAhADoRpMA.WorkerS.Dev",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-15"
             },
             {
                 "protocol": "vless",
@@ -6270,11 +7219,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUjZmMmNWb1NIMnJGZ0o0RyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoicmtKbnBGeE8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHaDOR.BaHADORPMA.wOrkErs.dev",
+                        "serverName": "BAHADOR.BAhAdorPma.WORkeRS.dEv",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-15"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.21.25.224",
+                            "port": 2083,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoiWTdPbEJFSkZLQnZwUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BaHaDoR.BAhadORPMa.WORkErs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6307,11 +7293,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiM1lqTFVnTmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiWVdtc3VDQnNRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahADor.BAHADoRpMa.WorkERS.DEv",
+                        "serverName": "bAhADoR.bahaDOrpMA.WoRkers.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6344,11 +7330,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTXNQcVZ4TnoxRDFXMkEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoib1RIdkpsNm1sTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhaDor.BAhAdoRPmA.woRkERs.dEV",
+                        "serverName": "bAHADor.BAHadorPma.wORkerS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6360,43 +7346,6 @@
                     }
                 },
                 "tag": "proxy-18"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "104.21.25.224",
-                            "port": 2087,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoicGo0dDJlMzJ2eSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BAHAdOR.baHaDORpMa.WorkErS.deV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-19"
             },
             {
                 "protocol": "vless",
@@ -6418,11 +7367,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQ3NIR2RtbVdiR3JhIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiWDJlT3FtUnVobjd1RVgwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHaDOR.BahAdorpMA.wOrkErs.dEv",
+                        "serverName": "BaHaDOr.BahadOrpMa.WoRkERS.Dev",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-19"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.21.25.224",
+                            "port": 2087,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoidGgxYlBwUGZTbkdmaFAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BahAdoR.BAHAdorpMA.WORKers.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6455,11 +7441,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMmR2cWx6anhncyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWnF2SHZlVHciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHadOr.bahAdoRpMa.workers.dev",
+                        "serverName": "bahAdOR.bAHADorpMA.wOrkERS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6492,11 +7478,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiYzB4Y1g3bXlUbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiOGtOMlZRNWIwSHMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDOr.baHADorpMA.wORKErS.deV",
+                        "serverName": "baHADOr.baHaDoRpmA.worKeRS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6508,43 +7494,6 @@
                     }
                 },
                 "tag": "proxy-22"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "104.21.25.224",
-                            "port": 2096,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQWdlVXlxdUw5ZHBtMGtzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BAhaDoR.bahAdORPmA.woRkeRs.deV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-23"
             },
             {
                 "protocol": "vless",
@@ -6566,11 +7515,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoicDV6M1A4VnZhZWMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiTE1hdDZ6RG80cTI3diIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahADOR.BahADoRpmA.WorKeRS.dEV",
+                        "serverName": "BahADor.BahaDORPMA.woRkERS.dEV",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-23"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "104.21.25.224",
+                            "port": 2096,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoibFV2akFZOXFiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "bAhAdOr.bahadORpMA.woRkerS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6587,9 +7573,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -6682,7 +7669,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -6747,16 +7747,20 @@
         },
         "dns": {
             "hosts": {
+                "adguard-dns.com": [
+                    "104.21.95.199",
+                    "172.67.147.178"
+                ],
                 "bahador.bahadorpma.workers.dev": [
                     "104.21.25.224",
                     "172.67.134.206",
-                    "2606:4700:3032::ac43:86ce",
-                    "2606:4700:3037::6815:19e0"
+                    "2606:4700:3037::6815:19e0",
+                    "2606:4700:3032::ac43:86ce"
                 ]
             },
             "servers": [
                 {
-                    "address": "https://8.8.8.8/dns-query",
+                    "address": "https://adguard-dns.com",
                     "tag": "remote-dns"
                 },
                 {
@@ -6768,6 +7772,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": true
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": true,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -6825,11 +7849,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6846,9 +7870,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "1-5",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -6884,11 +7909,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6905,9 +7930,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "1-10",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -6943,11 +7969,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6964,9 +7990,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "10-20",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7002,11 +8029,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7023,9 +8050,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "20-30",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7061,11 +8089,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7082,9 +8110,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "30-40",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7120,11 +8149,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7141,9 +8170,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "40-50",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7179,11 +8209,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7200,9 +8230,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "50-60",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7238,11 +8269,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7259,9 +8290,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "60-70",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7297,11 +8329,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7318,9 +8350,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "70-80",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7356,11 +8389,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7377,9 +8410,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "80-90",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7415,11 +8449,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7436,9 +8470,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "90-100",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7474,11 +8509,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7495,9 +8530,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "10-30",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7533,11 +8569,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7554,9 +8590,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "20-40",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7592,11 +8629,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7613,9 +8650,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "30-50",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7651,11 +8689,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7672,9 +8710,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "40-60",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7710,11 +8749,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7731,9 +8770,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "50-70",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7769,11 +8809,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7790,9 +8830,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "60-80",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7828,11 +8869,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7849,9 +8890,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "70-90",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7887,11 +8929,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7908,9 +8950,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "80-100",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -7946,11 +8989,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOHNXbHZDTVZISzlOIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoib2tJMHBud3haMGFBajZwNCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOR.BAhAdorPMa.workErS.deV",
+                        "serverName": "bAHadoR.BaHAdorpMa.wOrKERS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7967,9 +9010,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
+                        "packets": "1-1",
                         "length": "100-200",
-                        "interval": "1"
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -8062,7 +9106,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -8146,6 +9203,26 @@
                     "skipFallback": false
                 },
                 {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": false,
+                    "finalQuery": true
+                },
+                {
                     "address": "1.1.1.1",
                     "domains": [
                         "full:cloudflare.com"
@@ -8193,9 +9270,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -8216,8 +9294,9 @@
                 "settings": {
                     "fragment": {
                         "packets": "1-1",
-                        "length": "100-200",
-                        "interval": "1"
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -8344,7 +9423,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -8438,6 +9530,26 @@
                         "geoip:ir"
                     ],
                     "skipFallback": false
+                },
+                {
+                    "address": "178.22.122.100",
+                    "domains": [
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
+                    ],
+                    "skipFallback": false,
+                    "finalQuery": true
                 }
             ],
             "queryStrategy": "UseIP",
@@ -8480,9 +9592,10 @@
                 "protocol": "freedom",
                 "settings": {
                     "fragment": {
-                        "packets": "tlshello",
-                        "length": "100-200",
-                        "interval": "1"
+                        "packets": "1-1",
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -8503,8 +9616,9 @@
                 "settings": {
                     "fragment": {
                         "packets": "1-1",
-                        "length": "100-200",
-                        "interval": "1"
+                        "length": "10-30",
+                        "interval": "10-20",
+                        "maxSplit": "2"
                     }
                 },
                 "streamSettings": {
@@ -8631,7 +9745,20 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir"
+                        "geosite:category-ir",
+                        "geosite:openai",
+                        "geosite:google-deepmind",
+                        "geosite:microsoft",
+                        "geosite:oracle",
+                        "geosite:docker",
+                        "geosite:adobe",
+                        "geosite:epicgames",
+                        "geosite:intel",
+                        "geosite:amd",
+                        "geosite:nvidia",
+                        "geosite:asus",
+                        "geosite:hp",
+                        "geosite:lenovo"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
