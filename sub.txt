@@ -10,24 +10,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -113,11 +103,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -231,7 +221,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -245,13 +234,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -290,24 +272,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -393,11 +365,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoieTBoSWQ3ODU4Tm9EVmEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQmhrQWE2YlBmZlEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Bahador.baHadOrpmA.workERs.DEv",
+                        "serverName": "bAHadOr.baHADORpMA.WoRkErS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -511,7 +483,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -525,13 +496,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -570,24 +534,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -672,11 +626,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWHdMNVBFbk4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZXE0aFZVUGlTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHador.bahaDorPMa.WorKErS.dev",
+                        "serverName": "bAHador.BAhAdoRpMA.wOrkErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -790,7 +744,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -804,13 +757,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -849,24 +795,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -951,11 +887,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUWpFSVVHdkUzYmxmQ20iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoick40amJSM0w0NmxxNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOr.BaHadoRPMA.woRkerS.Dev",
+                        "serverName": "BAHaDOR.BAHadorpma.WOrKERs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1069,7 +1005,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -1083,13 +1018,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1128,24 +1056,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -1231,11 +1149,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidWdlcGkxQWFYSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQ0VWVW80bnppQlV4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHador.bAHaDORPMa.WOrKeRS.DeV",
+                        "serverName": "BAhador.bAhadorpMA.wORKERS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1349,7 +1267,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -1363,13 +1280,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1408,24 +1318,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -1511,11 +1411,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTmJFTWNlZ2FibEIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiWjM3VHNhM3FJTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHador.bAHadorpma.WOrkeRs.dEv",
+                        "serverName": "BAHADor.BAHadORpMa.WorkERs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1629,7 +1529,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -1643,13 +1542,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1688,24 +1580,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -1790,11 +1672,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWTI1M0FKQkY0NyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiYzI5WXFsRGgzRGpYUkVvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOr.BahADOrPmA.WorkERS.deV",
+                        "serverName": "BaHaDOr.BahaDoRPma.woRkERs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1908,7 +1790,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -1922,13 +1803,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -1967,24 +1841,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -2069,11 +1933,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiS3E0cldJNXduaUw1RCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMUpNRzg2QUV3Wm4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHaDor.BahAdoRpma.woRkERs.DEV",
+                        "serverName": "BahAdor.baHaDORPmA.woRkers.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2187,7 +2051,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -2201,13 +2064,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2246,24 +2102,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -2349,11 +2195,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoia29EbmhQbTBjMVlCVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUWhGUlJlMHBjWEsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHAdoR.bahaDoRpMA.woRKErS.deV",
+                        "serverName": "BAhaDOr.BahadORPmA.wOrKErS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2467,7 +2313,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -2481,13 +2326,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2526,24 +2364,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -2629,11 +2457,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiN2JaMTh6T2Z6aXFjSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoick43RTRVRW0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDOr.bAhAdorpmA.WORKERs.deV",
+                        "serverName": "BAhAdOr.bahaDOrpMa.WORKeRS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2747,7 +2575,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -2761,13 +2588,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -2806,24 +2626,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -2908,11 +2718,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVEtZNGdQOTEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiRENKTXJHbXhZemEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahadOr.bahaDorPMa.worKErS.DEV",
+                        "serverName": "bAHaDor.BAHADOrpma.worKErS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3026,7 +2836,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -3040,13 +2849,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3085,24 +2887,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -3187,11 +2979,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidlpJWjBWS3lpbiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiM3I5M245cWZjVTYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHaDOr.bAHaDOrpMa.woRkeRs.dev",
+                        "serverName": "BahaDOR.bahADoRpMa.wORkErs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3305,7 +3097,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -3319,13 +3110,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3364,24 +3148,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -3467,11 +3241,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUVF5TVY4UE1OV0dYZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWHhxaE4zVDl1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHAdoR.BAHAdorPmA.worKerS.DeV",
+                        "serverName": "BahAdOr.bahadorPmA.woRKErS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3585,7 +3359,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -3599,13 +3372,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3644,24 +3410,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -3747,11 +3503,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR0FzWkdaY0NJQXVkR3kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiMDhIaHM1S0dPZkFiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOr.BahADORPMA.woRkERs.Dev",
+                        "serverName": "BaHaDOR.BaHaDOrPma.woRkErs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3865,7 +3621,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -3879,13 +3634,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -3924,24 +3672,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -4026,11 +3764,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic3hEM1ViQUsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoidDVrWklsTE41YjUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHadOr.bAhadORpMA.wORKErS.DeV",
+                        "serverName": "BaHadOR.bahaDOrpMa.woRkeRs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4144,7 +3882,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -4158,13 +3895,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -4203,24 +3933,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -4305,11 +4025,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWkJmakZaT0dKSHhQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiVGRGY2t4cVM4T3Y2anBDcCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDOR.bAHaDoRPMA.wORKErS.dev",
+                        "serverName": "BAHaDoR.BaHADOrPMa.WorkerS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4423,7 +4143,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -4437,13 +4156,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -4482,24 +4194,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -4585,11 +4287,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoib0lyeDdjckMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoib2pVcW5ISUNxcGYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahAdor.BAHadOrpmA.WOrkErS.DEv",
+                        "serverName": "bAHadoR.bahADorpma.wOrKeRs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4703,7 +4405,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -4717,13 +4418,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -4762,24 +4456,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -4865,11 +4549,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiakQ3TUtDRkcyZGFHdUUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoibEdqbktyRGFQRWNHWTlyUCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahadOr.BAhADORPMa.wOrKERs.dEv",
+                        "serverName": "BaHADOR.BAhadoRPma.wOrkErs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4983,7 +4667,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -4997,13 +4680,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -5042,24 +4718,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -5144,11 +4810,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTVE2Z3VaR21VMDQxSlciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiR0dEWTZFYkRiOGJTOFViIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhadOR.BAhadorPMa.wORkers.DEV",
+                        "serverName": "bAHaDoR.BAHADOrpma.workErS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5262,7 +4928,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -5276,13 +4941,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -5321,24 +4979,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -5423,11 +5071,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQkRQTTFQNUpVaFY2eiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiT09hMEtBTXQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdOr.BaHAdORpmA.wORkeRS.dev",
+                        "serverName": "bahAdor.BAhAdORpma.wORKErs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5541,7 +5189,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -5555,13 +5202,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -5600,24 +5240,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -5703,11 +5333,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiNUhIYlA3MDdiTHJTZ2kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQUhjQzRxdzJ1a05uOWhhIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHAdOr.BAhaDORPMa.WORkErs.dev",
+                        "serverName": "BahADOR.BAhADORpmA.WOrKErs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5821,7 +5451,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -5835,13 +5464,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -5880,24 +5502,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -5983,11 +5595,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQkl0QThwc2xxYkgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiOXM4WVFBdWVjMmtnRjVpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahadoR.BahAdOrPMA.woRKERS.deV",
+                        "serverName": "baHAdor.BaHAdorpma.wOrkErS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6101,7 +5713,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -6115,13 +5726,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -6160,24 +5764,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -6262,11 +5856,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiT1o0QTlhQVRpUDA1dXN1bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiSDJJd01SZEdDY0UyM014dCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHadOR.bahadoRpma.woRKErs.DEv",
+                        "serverName": "bAHador.bAhaDOrpMA.wOrkERs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6380,7 +5974,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -6394,13 +5987,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -6439,24 +6025,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -6541,11 +6117,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoib09PeG5qNWhIcU5RV0RNTCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiRHJDV0pmQlgwTHZFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDor.bahadoRpmA.woRkErs.dev",
+                        "serverName": "bahador.BahaDorpMa.wORKERS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6659,7 +6235,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -6673,13 +6248,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -6718,24 +6286,14 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ]
             },
             "servers": [
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -6822,11 +6380,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6859,11 +6417,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoieTBoSWQ3ODU4Tm9EVmEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQmhrQWE2YlBmZlEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Bahador.baHadOrpmA.workERs.DEv",
+                        "serverName": "bAHadOr.baHADORpMA.WoRkErS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6896,11 +6454,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWHdMNVBFbk4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZXE0aFZVUGlTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHador.bahaDorPMa.WorKErS.dev",
+                        "serverName": "bAHador.BAhAdoRpMA.wOrkErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6933,11 +6491,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUWpFSVVHdkUzYmxmQ20iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoick40amJSM0w0NmxxNyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOr.BaHadoRPMA.woRkerS.Dev",
+                        "serverName": "BAHaDOR.BAHadorpma.WOrKERs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6970,11 +6528,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidWdlcGkxQWFYSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQ0VWVW80bnppQlV4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHador.bAHaDORPMa.WOrKeRS.DeV",
+                        "serverName": "BAhador.bAhadorpMA.wORKERS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7007,11 +6565,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTmJFTWNlZ2FibEIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiWjM3VHNhM3FJTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHador.bAHadorpma.WOrkeRs.dEv",
+                        "serverName": "BAHADor.BAHadORpMa.WorkERs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7044,11 +6602,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWTI1M0FKQkY0NyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiYzI5WXFsRGgzRGpYUkVvIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOr.BahADOrPmA.WorkERS.deV",
+                        "serverName": "BaHaDOr.BahaDoRPma.woRkERs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7081,11 +6639,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiS3E0cldJNXduaUw1RCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMUpNRzg2QUV3Wm4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHaDor.BahAdoRpma.woRkERs.DEV",
+                        "serverName": "BahAdor.baHaDORPmA.woRkers.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7118,11 +6676,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoia29EbmhQbTBjMVlCVCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUWhGUlJlMHBjWEsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHAdoR.bahaDoRpMA.woRKErS.deV",
+                        "serverName": "BAhaDOr.BahadORPmA.wOrKErS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7155,11 +6713,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiN2JaMTh6T2Z6aXFjSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoick43RTRVRW0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDOr.bAhAdorpmA.WORKERs.deV",
+                        "serverName": "BAhAdOr.bahaDOrpMa.WORKeRS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7192,11 +6750,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVEtZNGdQOTEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiRENKTXJHbXhZemEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahadOr.bahaDorPMa.worKErS.DEV",
+                        "serverName": "bAHaDor.BAHADOrpma.worKErS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7229,11 +6787,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidlpJWjBWS3lpbiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiM3I5M245cWZjVTYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHaDOr.bAHaDOrpMa.woRkeRs.dev",
+                        "serverName": "BahaDOR.bahADoRpMa.wORkErs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7266,11 +6824,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUVF5TVY4UE1OV0dYZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWHhxaE4zVDl1IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHAdoR.BAHAdorPmA.worKerS.DeV",
+                        "serverName": "BahAdOr.bahadorPmA.woRKErS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7303,11 +6861,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR0FzWkdaY0NJQXVkR3kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiMDhIaHM1S0dPZkFiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOr.BahADORPMA.woRkERs.Dev",
+                        "serverName": "BaHaDOR.BaHaDOrPma.woRkErs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7340,11 +6898,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic3hEM1ViQUsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoidDVrWklsTE41YjUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHadOr.bAhadORpMA.wORKErS.DeV",
+                        "serverName": "BaHadOR.bahaDOrpMa.woRkeRs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7377,11 +6935,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWkJmakZaT0dKSHhQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
+                        "path": "/eyJqdW5rIjoiVGRGY2t4cVM4T3Y2anBDcCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDOR.bAHaDoRPMA.wORKErS.dev",
+                        "serverName": "BAHaDoR.BaHADOrPMa.WorkerS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7414,11 +6972,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoib0lyeDdjckMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoib2pVcW5ISUNxcGYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahAdor.BAHadOrpmA.WOrkErS.DEv",
+                        "serverName": "bAHadoR.bahADorpma.wOrKeRs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7451,11 +7009,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiakQ3TUtDRkcyZGFHdUUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoibEdqbktyRGFQRWNHWTlyUCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahadOr.BAhADORPMa.wOrKERs.dEv",
+                        "serverName": "BaHADOR.BAhadoRPma.wOrkErs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7488,11 +7046,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTVE2Z3VaR21VMDQxSlciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiR0dEWTZFYkRiOGJTOFViIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhadOR.BAhadorPMa.wORkers.DEV",
+                        "serverName": "bAHaDoR.BAHADOrpma.workErS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7525,11 +7083,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQkRQTTFQNUpVaFY2eiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiT09hMEtBTXQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdOr.BaHAdORpmA.wORkeRS.dev",
+                        "serverName": "bahAdor.BAhAdORpma.wORKErs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7562,11 +7120,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiNUhIYlA3MDdiTHJTZ2kiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQUhjQzRxdzJ1a05uOWhhIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHAdOr.BAhaDORPMa.WORkErs.dev",
+                        "serverName": "BahADOR.BAhADORpmA.WOrKErs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7599,11 +7157,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQkl0QThwc2xxYkgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiOXM4WVFBdWVjMmtnRjVpIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahadoR.BahAdOrPMA.woRKERS.deV",
+                        "serverName": "baHAdor.BaHAdorpma.wOrkErS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7636,11 +7194,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiT1o0QTlhQVRpUDA1dXN1bSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiSDJJd01SZEdDY0UyM014dCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHadOR.bahadoRpma.woRKErs.DEv",
+                        "serverName": "bAHador.bAhaDOrpMA.wOrkERs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7673,11 +7231,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoib09PeG5qNWhIcU5RV0RNTCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJlZml4IiwicGFuZWxJUHMiOlsiWzJhMDI6ODk4OjE0Njo2NDo6XSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiRHJDV0pmQlgwTHZFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDor.bahadoRpmA.woRkErs.dev",
+                        "serverName": "bahador.BahaDorpMa.wORKERS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7791,7 +7349,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -7805,13 +7362,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -7870,12 +7420,12 @@
         "dns": {
             "hosts": {
                 "dns.quad9.net": [
-                    "9.9.9.9",
-                    "149.112.112.112"
+                    "149.112.112.112",
+                    "9.9.9.9"
                 ],
                 "bahador.bahadorpma.workers.dev": [
-                    "172.67.134.206",
                     "104.21.25.224",
+                    "172.67.134.206",
                     "2606:4700:3032::ac43:86ce",
                     "2606:4700:3037::6815:19e0"
                 ]
@@ -7884,16 +7434,6 @@
                 {
                     "address": "https://dns.quad9.net/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": true
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -7978,11 +7518,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8039,11 +7579,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8100,11 +7640,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8161,11 +7701,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8222,11 +7762,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8283,11 +7823,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8344,11 +7884,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8405,11 +7945,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8466,11 +8006,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8527,11 +8067,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8588,11 +8128,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8649,11 +8189,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8710,11 +8250,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8771,11 +8311,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8832,11 +8372,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8893,11 +8433,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8954,11 +8494,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -9015,11 +8555,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -9076,11 +8616,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -9137,11 +8677,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGU0aHkxY3RpYTJDN00iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByZWZpeCIsInBhbmVsSVBzIjpbIlsyYTAyOjg5ODoxNDY6NjQ6Ol0iXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoia2ZFRkdUYW1SNW53NmJsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcmVmaXgiLCJwYW5lbElQcyI6WyJbMmEwMjo4OTg6MTQ2OjY0OjpdIl19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOR.bAHADoRpma.WorKers.DEv",
+                        "serverName": "BAHADor.bahadoRPMa.workerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -9255,7 +8795,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -9269,13 +8808,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -9340,16 +8872,6 @@
                 {
                     "address": "https://cloudflare-dns.com/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": false
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -9575,7 +9097,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -9589,13 +9110,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
@@ -9672,16 +9186,6 @@
                 {
                     "address": "https://dns.google/dns-query",
                     "tag": "remote-dns"
-                },
-                {
-                    "address": "1.1.1.1",
-                    "domains": [
-                        "geosite:category-ir"
-                    ],
-                    "expectIPs": [
-                        "geoip:ir"
-                    ],
-                    "skipFallback": false
                 },
                 {
                     "address": "https://dns.quad9.net/dns-query",
@@ -9906,7 +9410,6 @@
                 },
                 {
                     "domain": [
-                        "geosite:category-ir",
                         "geosite:openai",
                         "geosite:google-deepmind",
                         "geosite:microsoft",
@@ -9920,13 +9423,6 @@
                         "geosite:asus",
                         "geosite:hp",
                         "geosite:lenovo"
-                    ],
-                    "outboundTag": "direct",
-                    "type": "field"
-                },
-                {
-                    "ip": [
-                        "geoip:ir"
                     ],
                     "outboundTag": "direct",
                     "type": "field"
