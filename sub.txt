@@ -82,11 +82,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -304,11 +304,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWlNvYzBqQklnbUpKaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiRFU3bTNjZnJON25Id3MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdOR.BaHAdORpMa.WorkerS.Dev",
+                        "serverName": "BAHAdOR.baHaDoRPMA.wORkErs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -504,7 +504,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 443,
                             "users": [
                                 {
@@ -519,11 +519,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidThHM0w0WTl0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiTE8yTUVqZU5WIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdOR.bAhadOrPMa.WoRKers.dEV",
+                        "serverName": "bAhAdOr.bahAdOrPma.worKers.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -719,7 +719,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 443,
                             "users": [
                                 {
@@ -734,11 +734,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOU1EZmpSbERHODY5MXVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiTVk1YzNkd2VoamdrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadoR.BahAdORPmA.WOrKErS.dEV",
+                        "serverName": "BahADoR.BAhADORpMa.worKeRs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -949,11 +949,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMDNQd29JOGwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoieUhjTFk5bXByV1NsYnciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhaDOR.Bahadorpma.WorKeRs.DEv",
+                        "serverName": "BaHadOr.baHadorPMA.WOrkErS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1164,11 +1164,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiREZYNmxkMEJRZ2I3TzIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiRDVpSDUzZlUydklwdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOr.BahaDoRPMA.workeRS.DEv",
+                        "serverName": "bAHadoR.baHADorPMA.workErS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1379,11 +1379,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMk9GNjZsWUJkYTlYYTR1VyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZktQNEd3QXBKekMxUE9KQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOR.BaHAdORpMA.workERS.deV",
+                        "serverName": "bAhadOr.BahAdoRpMa.WORKerS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1594,11 +1594,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiYWVTd2I5TUExZmpSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUVUzeUp6WDh6djB2MjYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahADor.BAhAdorPMa.WORKErS.DEV",
+                        "serverName": "BAhaDor.bAhaDORPMA.wORKErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -1809,11 +1809,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR2pYNVpwRHF1RndtYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiNVkzUkVGenU2cHJRcmhZRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahADor.bAHADoRPmA.worKeRs.Dev",
+                        "serverName": "BAhaDOR.BaHADorpmA.WorKerS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2024,11 +2024,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiS3NQaW1wZE1sIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoid05raHNkc2xSMWFxMnptIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDOR.BahAdorpma.worKeRs.dEv",
+                        "serverName": "bAHADOr.bAhADoRPMA.WorkerS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2239,11 +2239,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTTRpQ3o4d1BNTHRFMXdPcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoia1BjcDFMTlk1R1YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhador.bAhAdORpmA.woRkERs.Dev",
+                        "serverName": "BahaDoR.BAhadOrpMA.WOrkErs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2454,11 +2454,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQjIwU2NyT25tR2daUk4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZnpRSDM5S2NuSkhGeVIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahadoR.bAhadOrPMa.woRkeRS.dEv",
+                        "serverName": "bAhador.BAHADoRPMa.wOrKErs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2669,11 +2669,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVkREdTczd0RsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoienI2NGk5azMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahadOR.baHadORPMA.WorkErS.Dev",
+                        "serverName": "BahadOR.BAHADorpma.wORkerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -2884,11 +2884,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidVNKTDZudjJ1NkNoYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZGEzRzIzUHBtblJIVVJLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHadOR.BAhAdoRpMA.WORkers.dev",
+                        "serverName": "BahAdoR.baHadOrpMa.wORkERS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3106,11 +3106,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOFp5elAyTWlPc1dTalMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQkdCaWhVSmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdor.BAhaDorpmA.WoRKERS.Dev",
+                        "serverName": "BAhaDor.bAhADoRpmA.WORkerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3328,11 +3328,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoia0ZmbzJDOExaeTRSbiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMUJueWZlbTZHdmZhanZmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHaDor.baHAdOrpMa.WorkeRS.DeV",
+                        "serverName": "BaHador.BahaDORpmA.WoRkeRS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3528,7 +3528,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 8443,
                             "users": [
                                 {
@@ -3543,11 +3543,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR2N3UDNFY1AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoibWZOS0o3RmFzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHAdOR.BAhadORpMA.WORKERS.deV",
+                        "serverName": "bAhADor.BAhAdoRPma.woRKerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3743,7 +3743,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 8443,
                             "users": [
                                 {
@@ -3758,11 +3758,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiYnBCZHhQUmFhQ29lNGtWUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiT2x5aHVDMTMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahAdOR.bAHADORpMA.Workers.DEv",
+                        "serverName": "BAHADOR.bAhADorpma.WORKerS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -3973,11 +3973,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSVhhcXpmOEkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiTzI4engwTHVlZThPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOr.bahADoRPma.WORkErS.deV",
+                        "serverName": "bAhaDOR.BAhADORpma.wORkErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4188,11 +4188,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSHZhajVsdkJyVnpxZm8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQkplZnJEQVNSWjNVMXU5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHaDor.BaHadorPmA.WORkers.deV",
+                        "serverName": "bAHAdOR.bahadoRPMa.woRkerS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4403,11 +4403,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic1JhcXpqOGJzZkpDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiR3k5TWk4SXdTRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHaDOr.bAHADoRPMa.WoRKeRS.DeV",
+                        "serverName": "bAHadOR.BAhadOrPma.wORkERs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4618,11 +4618,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiM1lweTE1WjRnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZjhlQ0JsaEU2dERQMVEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhadOR.bahAdorpMa.WOrkers.deV",
+                        "serverName": "bAhADor.bAHaDOrpMA.WORKeRS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -4833,11 +4833,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTzB1aExmZDFaUCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiNkkzQVRWUUdYMnd1RGsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Bahador.bAHAdORpMa.wORkErs.Dev",
+                        "serverName": "bAhaDor.baHAdorPmA.WORkErS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5048,11 +5048,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSkRNaFdqWnoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoicHRFTU9mNU5SayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOr.BaHAdoRpMa.WOrkeRS.DeV",
+                        "serverName": "BaHadOR.BAHADorPMa.wOrKErs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5263,11 +5263,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQTNCNWZpMjVtV2JnZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiandmNnBkNUMwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahADoR.bAHaDorpma.wOrkErs.dEv",
+                        "serverName": "BAHADoR.BAHADorpma.Workers.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5478,11 +5478,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMno1NXZuUWp2WGd4OWwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUE5RTmZ2YmxQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDoR.bAhADorpma.wORKers.dev",
+                        "serverName": "bAHador.BaHADOrpMa.WORkErs.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5693,11 +5693,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic2gwN0lncHg3ejV5STJnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiU2R5RlNURHZQVVFIWXVQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHaDOR.BAhADoRPMa.WoRKeRS.Dev",
+                        "serverName": "BahAdOR.bAHAdOrpma.wOrKerS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -5908,11 +5908,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiZDVYNGxyc1RKZDVsRFciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiSGpGTVV2cG12VjJqUFdRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOr.bAHaDoRPmA.wOrKerS.deV",
+                        "serverName": "BahADOR.BAHAdorpMA.WORkERS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6130,11 +6130,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidndNYkxnd2UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiMUk0VkpNM0w0M1hjeWFFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahAdor.BahADOrPMa.WOrKeRS.deV",
+                        "serverName": "BAhAdor.BaHAdORPmA.woRKerS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6352,11 +6352,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiRk1pWVNjMFZ5cFRIRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWXdyNTVQTmxGOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhadOr.BaHadorpmA.workers.DEV",
+                        "serverName": "bahaDOR.baHadoRPMa.woRKers.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6552,7 +6552,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 2053,
                             "users": [
                                 {
@@ -6567,11 +6567,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidDFqbmw5YlYzd2RVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoibnpmM3ZpQ1ZRVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHaDor.bAHaDORpMa.WOrKERs.dEv",
+                        "serverName": "BaHaDor.baHaDOrpMA.WOrKERs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6767,7 +6767,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 2053,
                             "users": [
                                 {
@@ -6782,11 +6782,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGdVRlg0cjhrVHQwM0MyeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiY2VoME5USWwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHAdOR.bAhadORpMA.WOrkerS.dEv",
+                        "serverName": "BAhadOR.baHADorpMa.WorkerS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -6997,11 +6997,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic2JnUFVUZnNPcE1BeUxBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiNnJYZVBkWEpTM1QyZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhaDOr.bahaDorpma.WoRKErs.dEV",
+                        "serverName": "BAHadOR.bAhAdoRpMA.WorKeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7212,11 +7212,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoib0Y2dG9HdjVkNGluMkYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZ1JibzduQXVRVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHAdor.baHaDorpMA.WORKERS.dEv",
+                        "serverName": "bahaDor.bAhAdoRpMA.WorkErs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7427,11 +7427,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiRElaM0YzWnhiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiV1d5bFhmNE4xIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOr.BahADORPmA.wORkErS.dev",
+                        "serverName": "BAhADor.BahADOrpMa.WoRKeRs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7642,11 +7642,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWUdWdkxoQ0hodTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiOXpLdlZRQVo3TEVmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHaDoR.BAHaDOrpma.WoRKERs.DEv",
+                        "serverName": "BahADor.baHaDoRPma.WoRKERs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -7857,11 +7857,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQXBWeTBpbU1kZGN1d0giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiU0lRTHJmZG5VcGt0M2kzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhaDOR.BaHadORpMa.WORkERs.dEv",
+                        "serverName": "bahaDor.bAhadorpma.WorKerS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8072,11 +8072,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMHdnZm9RQ01XaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiblB1TGR1Q3E1UGRKMzVCMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHADoR.bAHADOrPMA.woRKeRS.deV",
+                        "serverName": "bAHADOR.BAHadoRPmA.WoRkErS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8287,11 +8287,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidzlJQU85dEY3SyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMVp3dE5TblJ2WmRCbGkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOR.bahaDOrpma.workErs.Dev",
+                        "serverName": "BAhadOr.bAHAdorpma.WOrkErS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8502,11 +8502,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiY0JoWjI0ZzMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiTEsxS0RDeVIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhADoR.bahADOrPmA.wORkeRs.dEv",
+                        "serverName": "baHADoR.baHAdORPmA.WoRkERs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8717,11 +8717,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR0VUbmVpdXJadWR0NXJYdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoidE1uMlFZbGdOeUgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHADor.BAHADoRpmA.WORkERS.deV",
+                        "serverName": "BahADOr.BAHaDORpMA.WOrkErS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -8932,11 +8932,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibm5oSnFvQWNYRGFkRkxDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiTXhDRVMwbm5uNEsyM05XciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDOr.BAHadOrpMA.workeRs.DEV",
+                        "serverName": "BaHAdor.BahaDOrpMa.WORkerS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -9154,11 +9154,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidmxiM0JncDJSMWZBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUEJScGdxUXMydFhWdTRYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdor.BahAdOrPmA.Workers.DEV",
+                        "serverName": "baHAdoR.bAhaDORPMa.wOrkERs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -9376,11 +9376,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQU5Fbk5KSTVKUkVleU9vRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWlVpZFRGM3B4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHadOR.BahADORpmA.wOrKerS.Dev",
+                        "serverName": "bAhAdOR.BAHAdorPMa.wORKERs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -9576,7 +9576,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 2083,
                             "users": [
                                 {
@@ -9591,11 +9591,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSW9udHNwdDZtaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiVEN3ejlHZWhxT0JqaiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahAdOr.BaHAdoRPMa.WORKeRs.deV",
+                        "serverName": "bAHadoR.bahadOrPmA.WoRKers.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -9791,7 +9791,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 2083,
                             "users": [
                                 {
@@ -9806,11 +9806,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMnJUUm12VmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUjZvZlo1MVd5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahADOR.BaHADorPMa.WOrkERs.dEV",
+                        "serverName": "baHAdOr.BAhaDORPmA.WORKeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -10021,11 +10021,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiYVF6WFFmbjNzbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZWpLRmpsOHNhOWVGWTEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhaDOr.BaHaDORpma.woRkers.DEv",
+                        "serverName": "baHADOr.bAhadORPMa.WoRKErS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -10236,11 +10236,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUndnM29CbFN1OFNhaVIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiSkRuNWsxejdybCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADor.BahaDOrPma.worKErS.DeV",
+                        "serverName": "bAhador.BaHaDoRPMA.wOrkers.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -10451,11 +10451,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoieHFjOUVMTjRFTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQVVpaVRuNnhjZnZ0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahadoR.BAHAdorPMA.wORkers.deV",
+                        "serverName": "BAhador.BAhADOrpMa.WORkeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -10666,11 +10666,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiRnJIcVc4Znp6QiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiR0JMajBXMnBQNzhLMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHAdor.BahadoRpmA.woRKeRs.dEV",
+                        "serverName": "bAhaDoR.baHAdoRPmA.wORkerS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -10881,11 +10881,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVklqRzFrbHlEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiOTlLQ3hsajJXbDFTdFQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOr.BAhAdORpMa.worKers.DEv",
+                        "serverName": "BaHador.bAhaDOrPmA.wORkers.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -11096,11 +11096,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid0FnUXJDd2ciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoib2Z4Ujk3QnBZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHADOr.bahADoRpmA.WOrKERS.deV",
+                        "serverName": "BahAdOr.BAhADorpMa.WORKeRS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -11311,11 +11311,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSnc1eDVzMjI5bEkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoieDc0RFI2bkhmd2I4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHaDor.BahaDORpmA.woRKERs.DEv",
+                        "serverName": "bAhadOR.baHAdorPMA.WORKERS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -11526,11 +11526,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiNmZzRTdSN3RDSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiaDRyT0M0aFJqZ3I2TkdZTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHAdOr.BAhaDORPma.WorKers.DEV",
+                        "serverName": "BAHAdoR.BaHaDORpMa.Workers.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -11741,11 +11741,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR0JnMU9mY29uRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMDVoeUdTT1Z3ODZPT0giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhadOR.baHADORPma.wOrkErs.DEv",
+                        "serverName": "bAhadoR.BaHADOrpMA.WORkerS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -11956,11 +11956,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiZThxcnFmTjRNQU1GV0pIUSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiNmFhaFVpeVBkYXN2NnpJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhadOR.BaHADORpma.workErs.Dev",
+                        "serverName": "baHaDOR.BAHAdORpmA.WOrkeRS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -12178,11 +12178,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUmRkd056ODFoMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiRllYUlppcEtTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdoR.BAhadoRpMA.wOrKErs.dEv",
+                        "serverName": "baHador.BaHAdOrPMA.woRkErs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -12400,11 +12400,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiN2o0eDhjWDI1b0xPNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiajg3SHdRMHJ2dExFYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDoR.bahaDoRpma.WorKErs.dEv",
+                        "serverName": "BAHaDOR.BAHaDORpMA.woRkers.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -12600,7 +12600,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 2087,
                             "users": [
                                 {
@@ -12615,11 +12615,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMktxYmxETzNRY3VlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiWEFNUVRvaU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHadOr.BahaDorpma.workErs.DeV",
+                        "serverName": "BAhaDor.BAHaDorpmA.WorKeRs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -12815,7 +12815,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 2087,
                             "users": [
                                 {
@@ -12830,11 +12830,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSU5UUUF2RlUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiM2hnMHg4V20iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahADoR.BAHadORpmA.wOrkERS.dev",
+                        "serverName": "BAhADoR.BAHadORpMa.wOrkERS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -13045,11 +13045,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVnhBbERYV3p6ZFQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiNFN0TE5WNVVBcWh3TDJqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHADOR.bAhADorPma.WorkERs.DeV",
+                        "serverName": "Bahador.bahAdORpma.WoRkerS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -13260,11 +13260,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibE10emZqeDVyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZzJURWVrYUNYbXk3VXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhador.baHAdoRPMa.woRkerS.dEv",
+                        "serverName": "baHadoR.baHaDorpMa.WORkErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -13475,11 +13475,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibEZaeFR0eVl2Q1pFSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiSGptU0huTExZVU1RYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHadoR.BahadoRpmA.wORkErs.Dev",
+                        "serverName": "BahaDOr.BAhAdOrPma.wOrkERS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -13690,11 +13690,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUFdvcVBjMUp6TlZiOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoid2lzc1hpVVVtMGUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhADoR.bAHaDORPMA.woRkers.DEv",
+                        "serverName": "baHAdoR.BahadORpMA.woRkERS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -13905,11 +13905,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiZFltQ2hiR0JObFlzUSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMG5MZGF3NjYxZzNUU2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHaDOR.BAhAdoRPmA.wORKerS.Dev",
+                        "serverName": "bahADor.bAhaDORpMa.WoRKErs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -14120,11 +14120,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUUFCWnRCNXZuIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiTEN0MGFSYmtOdXhtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhadOR.baHadOrpmA.woRkerS.DeV",
+                        "serverName": "baHAdor.bAHaDoRPMA.WOrKerS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -14335,11 +14335,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUVVqejk3ZnlMTHVGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoibnJvOTlhcFIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOr.BAhadoRpMA.woRKeRS.Dev",
+                        "serverName": "bahADOR.bAhadoRpMa.wORKErs.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -14550,11 +14550,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidThSWEVZWml3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiN2t1VExCNGtxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdor.bAhaDORPma.woRkerS.DeV",
+                        "serverName": "BAhADOr.BAhAdOrpMa.workErS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -14765,11 +14765,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUEM5aFA4MDVSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiSmV1WVloTzhBVGNxb2RqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOR.bAhADOrPMA.woRkERs.dEv",
+                        "serverName": "BAHaDoR.BaHAdorPma.WOrKERs.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -14980,11 +14980,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSDdjMGhwV1oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiM2FDd0hRV3ZQNnJQUXZHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADoR.bAhADORPMA.wORKERs.DEv",
+                        "serverName": "BaHADOr.bAHAdOrPMA.workeRs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -15202,11 +15202,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWWRZbkVBU1plIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUW93bmV4bEFwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHadoR.BaHAdORpma.wOrkERS.deV",
+                        "serverName": "BAHAdoR.BaHadORPma.WorkErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -15424,11 +15424,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiT1RHWURpRlJQeDhiVFhqcCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGk1TVBKazdTb0NxcEhPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhadOR.bAHaDorPMa.WorKeRS.DeV",
+                        "serverName": "bAhADor.bAHADorpmA.wOrKERS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -15624,7 +15624,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "172.67.134.206",
+                            "address": "104.21.25.224",
                             "port": 2096,
                             "users": [
                                 {
@@ -15639,11 +15639,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiNFNXcFRrU1BoanZBb3VnSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZERnOFRHWk9NIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahadOr.baHAdORpMa.worKeRs.Dev",
+                        "serverName": "bAhaDOR.bAhADOrPmA.WOrkERS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -15839,7 +15839,7 @@
                 "settings": {
                     "vnext": [
                         {
-                            "address": "104.21.25.224",
+                            "address": "172.67.134.206",
                             "port": 2096,
                             "users": [
                                 {
@@ -15854,11 +15854,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiNlFJaGZuSnpLa0FHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoid3U3aXJSbWhlaEJjIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadoR.BaHaDorpMA.WorkeRs.deV",
+                        "serverName": "BAhaDoR.bahadOrpMA.WorKErs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -16069,11 +16069,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoieFFEOU5FRzhWdldxMVpDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiV0dneWNicXpkWlhhIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDoR.BaHAdorpMA.WoRKERS.dEv",
+                        "serverName": "BaHADoR.BAhadORPmA.worKeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -16284,11 +16284,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOGdxaU5iSDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiOWR2MVg2MG9vTGhBeHNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdOR.bAHadORpMa.wOrkeRs.DeV",
+                        "serverName": "BAhAdOr.BAhAdORpMA.WorkERS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -16499,11 +16499,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiU3NkYlF4OHowQTdyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiblAycFNKTG54IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDoR.bahADorPma.workERs.Dev",
+                        "serverName": "BAHADor.bAhAdoRpmA.workERS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -16714,11 +16714,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUDZaUkN4bklVbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiYmRlWkhQN0FwbXd1MkciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhADor.BaHAdORPma.WorKERS.dEV",
+                        "serverName": "BAHADor.bahadorPMa.WorkErS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -16929,11 +16929,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGhjZ1RQVE81WXVNblAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiaEZrRlJLTFJ0Sk0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHaDOr.bAHAdORpMA.workeRS.DeV",
+                        "serverName": "BAhAdoR.BaHadOrPmA.wOrKERs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -17144,11 +17144,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQm5oNzBsQlJmOFZzWiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiOExnc3l6UXpyUXlsM2Q1TiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahador.BAHAdOrpMa.wORKerS.DeV",
+                        "serverName": "BahadOR.bahADORPMa.wOrKeRS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -17359,11 +17359,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiaDQ4YnpOUXciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGdnUzJBUm1mc1ppaFRXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhadOr.baHaDORPmA.wORKErs.dEv",
+                        "serverName": "BAHADoR.BahAdorPmA.wOrkERs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -17574,11 +17574,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidmJUa2I4OVI1c3YweSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQkdOZ29ldUNPOVYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhAdOR.BahADORPmA.worKerS.DEv",
+                        "serverName": "BaHador.BAHadoRPmA.wORKErS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -17789,11 +17789,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid212b1NzVUhXaiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiOHNEVTY5WnZ5QWEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDoR.bAhadORPMa.wORKeRS.dEV",
+                        "serverName": "BAhador.bAhAdorpmA.WoRKERs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18004,11 +18004,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVFNpaUVKbmJtMXlkR2thIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiNWxzNnhybTZXeVJLc2poOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOr.bahAdOrpma.woRkeRs.dEV",
+                        "serverName": "BahaDOR.baHadoRpma.workers.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18227,11 +18227,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18264,11 +18264,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWlNvYzBqQklnbUpKaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiRFU3bTNjZnJON25Id3MiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdOR.BaHAdORpMa.WorkerS.Dev",
+                        "serverName": "BAHAdOR.baHaDoRPMA.wORkErs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18280,43 +18280,6 @@
                     }
                 },
                 "tag": "proxy-2"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "172.67.134.206",
-                            "port": 443,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidThHM0w0WTl0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BAhAdOR.bAhadOrPMa.WoRKers.dEV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-3"
             },
             {
                 "protocol": "vless",
@@ -18338,11 +18301,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOU1EZmpSbERHODY5MXVNIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiTE8yTUVqZU5WIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadoR.BahAdORPmA.WOrKErS.dEV",
+                        "serverName": "bAhAdOr.bahAdOrPma.worKers.dev",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-3"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "172.67.134.206",
+                            "port": 443,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoiTVk1YzNkd2VoamdrIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BahADoR.BAhADORpMa.worKeRs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18375,11 +18375,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMDNQd29JOGwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoieUhjTFk5bXByV1NsYnciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhaDOR.Bahadorpma.WorKeRs.DEv",
+                        "serverName": "BaHadOr.baHadorPMA.WOrkErS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18412,11 +18412,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiREZYNmxkMEJRZ2I3TzIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiRDVpSDUzZlUydklwdSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOr.BahaDoRPMA.workeRS.DEv",
+                        "serverName": "bAHadoR.baHADorPMA.workErS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18449,11 +18449,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMk9GNjZsWUJkYTlYYTR1VyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZktQNEd3QXBKekMxUE9KQyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOR.BaHAdORpMA.workERS.deV",
+                        "serverName": "bAhadOr.BahAdoRpMa.WORKerS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18486,11 +18486,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiYWVTd2I5TUExZmpSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUVUzeUp6WDh6djB2MjYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahADor.BAhAdorPMa.WORKErS.DEV",
+                        "serverName": "BAhaDor.bAhaDORPMA.wORKErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18523,11 +18523,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR2pYNVpwRHF1RndtYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiNVkzUkVGenU2cHJRcmhZRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahADor.bAHADoRPmA.worKeRs.Dev",
+                        "serverName": "BAhaDOR.BaHADorpmA.WorKerS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18560,11 +18560,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiS3NQaW1wZE1sIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoid05raHNkc2xSMWFxMnptIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDOR.BahAdorpma.worKeRs.dEv",
+                        "serverName": "bAHADOr.bAhADoRPMA.WorkerS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18597,11 +18597,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTTRpQ3o4d1BNTHRFMXdPcyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoia1BjcDFMTlk1R1YiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhador.bAhAdORpmA.woRkERs.Dev",
+                        "serverName": "BahaDoR.BAhadOrpMA.WOrkErs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18634,11 +18634,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQjIwU2NyT25tR2daUk4iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZnpRSDM5S2NuSkhGeVIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahadoR.bAhadOrPMa.woRkeRS.dEv",
+                        "serverName": "bAhador.BAHADoRPMa.wOrKErs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18671,11 +18671,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVkREdTczd0RsIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoienI2NGk5azMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahadOR.baHadORPMA.WorkErS.Dev",
+                        "serverName": "BahadOR.BAHADorpma.wORkerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18708,11 +18708,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidVNKTDZudjJ1NkNoYiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZGEzRzIzUHBtblJIVVJLIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHadOR.BAhAdoRpMA.WORkers.dev",
+                        "serverName": "BahAdoR.baHadOrpMa.wORkERS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18745,11 +18745,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOFp5elAyTWlPc1dTalMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQkdCaWhVSmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdor.BAhaDorpmA.WoRKERS.Dev",
+                        "serverName": "BAhaDor.bAhADoRpmA.WORkerS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18782,11 +18782,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoia0ZmbzJDOExaeTRSbiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMUJueWZlbTZHdmZhanZmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHaDor.baHAdOrpMa.WorkeRS.DeV",
+                        "serverName": "BaHador.BahaDORpmA.WoRkeRS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18798,43 +18798,6 @@
                     }
                 },
                 "tag": "proxy-16"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "172.67.134.206",
-                            "port": 8443,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR2N3UDNFY1AiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BaHAdOR.BAhadORpMA.WORKERS.deV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-17"
             },
             {
                 "protocol": "vless",
@@ -18856,11 +18819,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiYnBCZHhQUmFhQ29lNGtWUyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoibWZOS0o3RmFzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahAdOR.bAHADORpMA.Workers.DEv",
+                        "serverName": "bAhADor.BAhAdoRPma.woRKerS.dev",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-17"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "172.67.134.206",
+                            "port": 8443,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoiT2x5aHVDMTMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BAHADOR.bAhADorpma.WORKerS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18893,11 +18893,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSVhhcXpmOEkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiTzI4engwTHVlZThPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOr.bahADoRPma.WORkErS.deV",
+                        "serverName": "bAhaDOR.BAhADORpma.wORkErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18930,11 +18930,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSHZhajVsdkJyVnpxZm8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiQkplZnJEQVNSWjNVMXU5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHaDor.BaHadorPmA.WORkers.deV",
+                        "serverName": "bAHAdOR.bahadoRPMa.woRkerS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -18967,11 +18967,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic1JhcXpqOGJzZkpDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiR3k5TWk4SXdTRyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHaDOr.bAHADoRPMa.WoRKeRS.DeV",
+                        "serverName": "bAHadOR.BAhadOrPma.wORkERs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19004,11 +19004,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiM1lweTE1WjRnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZjhlQ0JsaEU2dERQMVEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhadOR.bahAdorpMa.WOrkers.deV",
+                        "serverName": "bAhADor.bAHaDOrpMA.WORKeRS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19041,11 +19041,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiTzB1aExmZDFaUCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiNkkzQVRWUUdYMnd1RGsiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "Bahador.bAHAdORpMa.wORkErs.Dev",
+                        "serverName": "bAhaDor.baHAdorPmA.WORkErS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19078,11 +19078,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSkRNaFdqWnoiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoicHRFTU9mNU5SayIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdOr.BaHAdoRpMa.WOrkeRS.DeV",
+                        "serverName": "BaHadOR.BAHADorPMa.wOrKErs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19115,11 +19115,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQTNCNWZpMjVtV2JnZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiandmNnBkNUMwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahADoR.bAHaDorpma.wOrkErs.dEv",
+                        "serverName": "BAHADoR.BAHADorpma.Workers.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19152,11 +19152,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMno1NXZuUWp2WGd4OWwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUE5RTmZ2YmxQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDoR.bAhADorpma.wORKers.dev",
+                        "serverName": "bAHador.BaHADOrpMa.WORkErs.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19189,11 +19189,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic2gwN0lncHg3ejV5STJnIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiU2R5RlNURHZQVVFIWXVQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHaDOR.BAhADoRPMa.WoRKeRS.Dev",
+                        "serverName": "BahAdOR.bAHAdOrpma.wOrKerS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19226,11 +19226,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiZDVYNGxyc1RKZDVsRFciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiSGpGTVV2cG12VjJqUFdRIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOr.bAHaDoRPmA.wOrKerS.deV",
+                        "serverName": "BahADOR.BAHAdorpMA.WORkERS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19263,11 +19263,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidndNYkxnd2UiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiMUk0VkpNM0w0M1hjeWFFIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahAdor.BahADOrPMa.WOrKeRS.deV",
+                        "serverName": "BAhAdor.BaHAdORPmA.woRKerS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19300,11 +19300,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiRk1pWVNjMFZ5cFRIRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWXdyNTVQTmxGOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhadOr.BaHadorpmA.workers.DEV",
+                        "serverName": "bahaDOR.baHadoRPMa.woRKers.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19316,43 +19316,6 @@
                     }
                 },
                 "tag": "proxy-30"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "172.67.134.206",
-                            "port": 2053,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidDFqbmw5YlYzd2RVIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BAHaDor.bAHaDORpMa.WOrKERs.dEv",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-31"
             },
             {
                 "protocol": "vless",
@@ -19374,11 +19337,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGdVRlg0cjhrVHQwM0MyeCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoibnpmM3ZpQ1ZRVSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHAdOR.bAhadORpMA.WOrkerS.dEv",
+                        "serverName": "BaHaDor.baHaDOrpMA.WOrKERs.DEv",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-31"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "172.67.134.206",
+                            "port": 2053,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoiY2VoME5USWwiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BAhadOR.baHADorpMa.WorkerS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19411,11 +19411,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoic2JnUFVUZnNPcE1BeUxBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiNnJYZVBkWEpTM1QyZiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhaDOr.bahaDorpma.WoRKErs.dEV",
+                        "serverName": "BAHadOR.bAhAdoRpMA.WorKeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19448,11 +19448,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoib0Y2dG9HdjVkNGluMkYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiZ1JibzduQXVRVyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHAdor.baHaDorpMA.WORKERS.dEv",
+                        "serverName": "bahaDor.bAhAdoRpMA.WorkErs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19485,11 +19485,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiRElaM0YzWnhiIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiV1d5bFhmNE4xIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOr.BahADORPmA.wORkErS.dev",
+                        "serverName": "BAhADor.BahADOrpMa.WoRKeRs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19522,11 +19522,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWUdWdkxoQ0hodTgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiOXpLdlZRQVo3TEVmIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHaDoR.BAHaDOrpma.WoRKERs.DEv",
+                        "serverName": "BahADor.baHaDoRPma.WoRKERs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19559,11 +19559,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQXBWeTBpbU1kZGN1d0giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiU0lRTHJmZG5VcGt0M2kzIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhaDOR.BaHadORpMa.WORkERs.dEv",
+                        "serverName": "bahaDor.bAhadorpma.WorKerS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19596,11 +19596,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMHdnZm9RQ01XaSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiblB1TGR1Q3E1UGRKMzVCMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHADoR.bAHADOrPMA.woRKeRS.deV",
+                        "serverName": "bAHADOR.BAHadoRPmA.WoRkErS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19633,11 +19633,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidzlJQU85dEY3SyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMVp3dE5TblJ2WmRCbGkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOR.bahaDOrpma.workErs.Dev",
+                        "serverName": "BAhadOr.bAHAdorpma.WOrkErS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19670,11 +19670,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiY0JoWjI0ZzMiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiTEsxS0RDeVIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhADoR.bahADOrPmA.wORkeRs.dEv",
+                        "serverName": "baHADoR.baHAdORPmA.WoRkERs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19707,11 +19707,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR0VUbmVpdXJadWR0NXJYdCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoidE1uMlFZbGdOeUgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHADor.BAHADoRpmA.WORkERS.deV",
+                        "serverName": "BahADOr.BAHaDORpMA.WOrkErS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19744,11 +19744,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibm5oSnFvQWNYRGFkRkxDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiTXhDRVMwbm5uNEsyM05XciIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDOr.BAHadOrpMA.workeRs.DEV",
+                        "serverName": "BaHAdor.BahaDOrpMa.WORkerS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19781,11 +19781,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidmxiM0JncDJSMWZBIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUEJScGdxUXMydFhWdTRYIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHAdor.BahAdOrPmA.Workers.DEV",
+                        "serverName": "baHAdoR.bAhaDORPMa.wOrkERs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19818,11 +19818,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQU5Fbk5KSTVKUkVleU9vRSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiWlVpZFRGM3B4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHadOR.BahADORpmA.wOrKerS.Dev",
+                        "serverName": "bAhAdOR.BAHAdorPMa.wORKERs.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19834,43 +19834,6 @@
                     }
                 },
                 "tag": "proxy-44"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "172.67.134.206",
-                            "port": 2083,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSW9udHNwdDZtaCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BahAdOr.BaHAdoRPMa.WORKeRs.deV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-45"
             },
             {
                 "protocol": "vless",
@@ -19892,11 +19855,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMnJUUm12VmYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiVEN3ejlHZWhxT0JqaiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahADOR.BaHADorPMa.WOrkERs.dEV",
+                        "serverName": "bAHadoR.bahadOrPmA.WoRKers.DeV",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-45"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "172.67.134.206",
+                            "port": 2083,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoiUjZvZlo1MVd5IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "baHAdOr.BAhaDORPmA.WORKeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19929,11 +19929,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiYVF6WFFmbjNzbyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZWpLRmpsOHNhOWVGWTEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhaDOr.BaHaDORpma.woRkers.DEv",
+                        "serverName": "baHADOr.bAhadORPMa.WoRKErS.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -19966,11 +19966,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUndnM29CbFN1OFNhaVIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiSkRuNWsxejdybCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADor.BahaDOrPma.worKErS.DeV",
+                        "serverName": "bAhador.BaHaDoRPMA.wOrkers.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20003,11 +20003,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoieHFjOUVMTjRFTiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQVVpaVRuNnhjZnZ0IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahadoR.BAHAdorPMA.wORkers.deV",
+                        "serverName": "BAhador.BAhADOrpMa.WORkeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20040,11 +20040,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiRnJIcVc4Znp6QiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiR0JMajBXMnBQNzhLMSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHAdor.BahadoRpmA.woRKeRs.dEV",
+                        "serverName": "bAhaDoR.baHAdoRPmA.wORkerS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20077,11 +20077,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVklqRzFrbHlEIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiOTlLQ3hsajJXbDFTdFQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadOr.BAhAdORpMa.worKers.DEv",
+                        "serverName": "BaHador.bAhaDOrPmA.wORkers.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20114,11 +20114,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid0FnUXJDd2ciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoib2Z4Ujk3QnBZIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHADOr.bahADoRpmA.WOrKERS.deV",
+                        "serverName": "BahAdOr.BAhADorpMa.WORKeRS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20151,11 +20151,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSnc1eDVzMjI5bEkiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoieDc0RFI2bkhmd2I4IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHaDor.BahaDORpmA.woRKERs.DEv",
+                        "serverName": "bAhadOR.baHAdorPMA.WORKERS.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20188,11 +20188,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiNmZzRTdSN3RDSCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiaDRyT0M0aFJqZ3I2TkdZTSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHAdOr.BAhaDORPma.WorKers.DEV",
+                        "serverName": "BAHAdoR.BaHaDORpMa.Workers.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20225,11 +20225,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiR0JnMU9mY29uRCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMDVoeUdTT1Z3ODZPT0giLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhadOR.baHADORPma.wOrkErs.DEv",
+                        "serverName": "bAhadoR.BaHADOrpMA.WORkerS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20262,11 +20262,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiZThxcnFmTjRNQU1GV0pIUSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiNmFhaFVpeVBkYXN2NnpJIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhadOR.BaHADORpma.workErs.Dev",
+                        "serverName": "baHaDOR.BAHAdORpmA.WOrkeRS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20299,11 +20299,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUmRkd056ODFoMiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiRllYUlppcEtTIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdoR.BAhadoRpMA.wOrKErs.dEv",
+                        "serverName": "baHador.BaHAdOrPMA.woRkErs.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20336,11 +20336,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiN2o0eDhjWDI1b0xPNiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiajg3SHdRMHJ2dExFYSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDoR.bahaDoRpma.WorKErs.dEv",
+                        "serverName": "BAHaDOR.BAHaDORpMA.woRkers.dEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20352,43 +20352,6 @@
                     }
                 },
                 "tag": "proxy-58"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "172.67.134.206",
-                            "port": 2087,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiMktxYmxETzNRY3VlIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "BaHadOr.BahaDorpma.workErs.DeV",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-59"
             },
             {
                 "protocol": "vless",
@@ -20410,11 +20373,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSU5UUUF2RlUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiWEFNUVRvaU8iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahADoR.BAHadORpmA.wOrkERS.dev",
+                        "serverName": "BAhaDor.BAHaDorpmA.WorKeRs.deV",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-59"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "172.67.134.206",
+                            "port": 2087,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoiM2hnMHg4V20iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BAhADoR.BAHadORpMa.wOrkERS.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20447,11 +20447,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVnhBbERYV3p6ZFQiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiNFN0TE5WNVVBcWh3TDJqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHADOR.bAhADorPma.WorkERs.DeV",
+                        "serverName": "Bahador.bahAdORpma.WoRkerS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20484,11 +20484,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibE10emZqeDVyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiZzJURWVrYUNYbXk3VXYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhador.baHAdoRPMa.woRkerS.dEv",
+                        "serverName": "baHadoR.baHaDorpMa.WORkErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20521,11 +20521,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoibEZaeFR0eVl2Q1pFSyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiSGptU0huTExZVU1RYyIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "baHadoR.BahadoRpmA.wORkErs.Dev",
+                        "serverName": "BahaDOr.BAhAdOrPma.wOrkERS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20558,11 +20558,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUFdvcVBjMUp6TlZiOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoid2lzc1hpVVVtMGUiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhADoR.bAHaDORPMA.woRkers.DEv",
+                        "serverName": "baHAdoR.BahadORpMA.woRkERS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20595,11 +20595,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiZFltQ2hiR0JObFlzUSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiMG5MZGF3NjYxZzNUU2siLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHaDOR.BAhAdoRPmA.wORKerS.Dev",
+                        "serverName": "bahADor.bAhaDORpMa.WoRKErs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20632,11 +20632,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUUFCWnRCNXZuIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiTEN0MGFSYmtOdXhtIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhadOR.baHadOrpmA.woRkerS.DeV",
+                        "serverName": "baHAdor.bAHaDoRPMA.WOrKerS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20669,11 +20669,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUVVqejk3ZnlMTHVGIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoibnJvOTlhcFIiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOr.BAhadoRpMA.woRKeRS.Dev",
+                        "serverName": "bahADOR.bAhadoRpMa.wORKErs.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20706,11 +20706,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidThSWEVZWml3IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiN2t1VExCNGtxIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdor.bAhaDORPma.woRkerS.DeV",
+                        "serverName": "BAhADOr.BAhAdOrpMa.workErS.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20743,11 +20743,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUEM5aFA4MDVSIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiSmV1WVloTzhBVGNxb2RqIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAHADOR.bAhADOrPMA.woRkERs.dEv",
+                        "serverName": "BAHaDoR.BaHAdorPma.WOrKERs.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20780,11 +20780,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiSDdjMGhwV1oiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiM2FDd0hRV3ZQNnJQUXZHIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADoR.bAhADORPMA.wORKERs.DEv",
+                        "serverName": "BaHADOr.bAHAdOrPMA.workeRs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20817,11 +20817,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiWWRZbkVBU1plIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUW93bmV4bEFwIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHadoR.BaHAdORpma.wOrkERS.deV",
+                        "serverName": "BAHAdoR.BaHadORPma.WorkErs.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20854,11 +20854,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiT1RHWURpRlJQeDhiVFhqcCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGk1TVBKazdTb0NxcEhPIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhadOR.bAHaDorPMa.WorKeRS.DeV",
+                        "serverName": "bAhADor.bAHADorpmA.wOrKERS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20870,43 +20870,6 @@
                     }
                 },
                 "tag": "proxy-72"
-            },
-            {
-                "protocol": "vless",
-                "settings": {
-                    "vnext": [
-                        {
-                            "address": "172.67.134.206",
-                            "port": 2096,
-                            "users": [
-                                {
-                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
-                                    "encryption": "none"
-                                }
-                            ]
-                        }
-                    ]
-                },
-                "streamSettings": {
-                    "network": "ws",
-                    "wsSettings": {
-                        "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiNFNXcFRrU1BoanZBb3VnSiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
-                    },
-                    "security": "tls",
-                    "tlsSettings": {
-                        "serverName": "bahadOr.baHAdORpMa.worKeRs.Dev",
-                        "fingerprint": "chrome",
-                        "alpn": [
-                            "http/1.1"
-                        ],
-                        "allowInsecure": false
-                    },
-                    "sockopt": {
-                        "dialerProxy": "fragment"
-                    }
-                },
-                "tag": "proxy-73"
             },
             {
                 "protocol": "vless",
@@ -20928,11 +20891,48 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiNlFJaGZuSnpLa0FHOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiZERnOFRHWk9NIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHadoR.BaHaDorpMA.WorkeRs.deV",
+                        "serverName": "bAhaDOR.bAhADOrPmA.WOrkERS.DEv",
+                        "fingerprint": "chrome",
+                        "alpn": [
+                            "http/1.1"
+                        ],
+                        "allowInsecure": false
+                    },
+                    "sockopt": {
+                        "dialerProxy": "fragment"
+                    }
+                },
+                "tag": "proxy-73"
+            },
+            {
+                "protocol": "vless",
+                "settings": {
+                    "vnext": [
+                        {
+                            "address": "172.67.134.206",
+                            "port": 2096,
+                            "users": [
+                                {
+                                    "id": "507ea319-650e-42fb-8cf7-39ca17979bba",
+                                    "encryption": "none"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                "streamSettings": {
+                    "network": "ws",
+                    "wsSettings": {
+                        "host": "bahador.bahadorpma.workers.dev",
+                        "path": "/eyJqdW5rIjoid3U3aXJSbWhlaEJjIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                    },
+                    "security": "tls",
+                    "tlsSettings": {
+                        "serverName": "BAhaDoR.bahadOrpMA.WorKErs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -20965,11 +20965,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoieFFEOU5FRzhWdldxMVpDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiV0dneWNicXpkWlhhIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDoR.BaHAdorpMA.WoRKERS.dEv",
+                        "serverName": "BaHADoR.BAhadORPmA.worKeRs.DeV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21002,11 +21002,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiOGdxaU5iSDgiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiOWR2MVg2MG9vTGhBeHNQIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhAdOR.bAHadORpMa.wOrkeRs.DeV",
+                        "serverName": "BAhAdOr.BAhAdORpMA.WorkERS.deV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21039,11 +21039,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiU3NkYlF4OHowQTdyIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiblAycFNKTG54IiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BahaDoR.bahADorPma.workERs.Dev",
+                        "serverName": "BAHADor.bAhAdoRpmA.workERS.Dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21076,11 +21076,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiUDZaUkN4bklVbCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiYmRlWkhQN0FwbXd1MkciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhADor.BaHAdORPma.WorKERS.dEV",
+                        "serverName": "BAHADor.bahadorPMa.WorkErS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21113,11 +21113,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidGhjZ1RQVE81WXVNblAiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiaEZrRlJLTFJ0Sk0iLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BaHaDOr.bAHAdORpMA.workeRS.DeV",
+                        "serverName": "BAhAdoR.BaHadOrPmA.wOrKERs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21150,11 +21150,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiQm5oNzBsQlJmOFZzWiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiOExnc3l6UXpyUXlsM2Q1TiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahador.BAHAdOrpMa.wORKerS.DeV",
+                        "serverName": "BahadOR.bahADORPMa.wOrKeRS.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21187,11 +21187,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiaDQ4YnpOUXciLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGdnUzJBUm1mc1ppaFRXIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhadOr.baHaDORPmA.wORKErs.dEv",
+                        "serverName": "BAHADoR.BahAdorPmA.wOrkERs.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21224,11 +21224,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoidmJUa2I4OVI1c3YweSIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiQkdOZ29ldUNPOVYiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bAhAdOR.BahADORPmA.worKerS.DEv",
+                        "serverName": "BaHador.BAHadoRPmA.wORKErS.DEv",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21261,11 +21261,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid212b1NzVUhXaiIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
+                        "path": "/eyJqdW5rIjoiOHNEVTY5WnZ5QWEiLCJwcm90b2NvbCI6InZsIiwibW9kZSI6InByb3h5aXAiLCJwYW5lbElQcyI6WyIxNDQuMzEuNzIuNjkiXX0=?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "bahaDoR.bAhadORPMa.wORKeRS.dEV",
+                        "serverName": "BAhador.bAhAdorpmA.WoRKERs.dEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21298,11 +21298,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoiVFNpaUVKbmJtMXlkR2thIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiNWxzNnhybTZXeVJLc2poOCIsInByb3RvY29sIjoidmwiLCJtb2RlIjoicHJveHlpcCIsInBhbmVsSVBzIjpbIjE0NC4zMS43Mi42OSJdfQ==?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAhADOr.bahAdOrpma.woRkeRs.dEV",
+                        "serverName": "BahaDOR.baHadoRpma.workers.dev",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21539,11 +21539,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21600,11 +21600,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21661,11 +21661,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21722,11 +21722,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21783,11 +21783,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21844,11 +21844,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21905,11 +21905,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -21966,11 +21966,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22027,11 +22027,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22088,11 +22088,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22149,11 +22149,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22210,11 +22210,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22271,11 +22271,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22332,11 +22332,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22393,11 +22393,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22454,11 +22454,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22515,11 +22515,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22576,11 +22576,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22637,11 +22637,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
@@ -22698,11 +22698,11 @@
                     "network": "ws",
                     "wsSettings": {
                         "host": "bahador.bahadorpma.workers.dev",
-                        "path": "/eyJqdW5rIjoid3BPMjBKSFVxbFJkIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
+                        "path": "/eyJqdW5rIjoiUGtCbzFvQlJDIiwicHJvdG9jb2wiOiJ2bCIsIm1vZGUiOiJwcm94eWlwIiwicGFuZWxJUHMiOlsiMTQ0LjMxLjcyLjY5Il19?ed=2560"
                     },
                     "security": "tls",
                     "tlsSettings": {
-                        "serverName": "BAHADOR.BAHADorPMa.WOrkERS.dEV",
+                        "serverName": "Bahador.bAhADoRPMA.WOrKErs.DEV",
                         "fingerprint": "chrome",
                         "alpn": [
                             "http/1.1"
